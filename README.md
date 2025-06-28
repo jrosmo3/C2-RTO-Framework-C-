@@ -122,6 +122,14 @@ Las distintas órdenes que podemos lanzar a las máquinas infectadas son:
 
 ![TTPs](https://user-images.githubusercontent.com/76411871/132777283-71a3d4ef-4686-4bab-8a87-24635b7bee1f.png)
 
+## Vídeo explicativo antiguo proyecto
+
+https://github.com/user-attachments/assets/1c109342-f22a-42a3-88a9-6109706decc8
+
+
+
+
+
 
 
  
